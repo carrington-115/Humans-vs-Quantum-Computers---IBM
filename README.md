@@ -12,7 +12,7 @@ Womanium Quantum Hackathon 2022
 - Team
 
 1. Introduction
-- The QLudo Game is an improvement of the classical Ludo game with the addition of Quantum Mechanics that come in the case of the superposition of movements of a player's seed.
+- The QLudo Game is an improvement of the classical Ludo game with the addition of Quantum Mechanics that come in the case of the superposition of movements of a player's seed. The QLudo Game is a web game that a player can play realtime on an IBM Quantum computer.
 
 2. github files overview
 3. Overview of Quantum Mechanics in QLudo
@@ -28,3 +28,21 @@ Womanium Quantum Hackathon 2022
 - The opponent (the computer) choses the type of move that the same thing is done.
 - Then, the board collapses to one state and the player has the opportunity to chose the seed to apply the move.
 - The first player to send all their seeds to their homes is the winner of the game
+
+5. Building Tools
+- The Game Interface: figma was used to design the UI/UX experience, React.js was use to build this interface, google firebase (pyrebase (python firebase)) is used as the backend responsible for the realtime database optimizations and authentication.
+- The Quantum Circuit: qiskit is used to build the quantum circuits of the game and for the simulations on a real IBM quantum computer
+below is an image that shows how the tools work together to achieve the game flow.
+
+6. Tasks completion
+Team GerCam computing achieved the following,
+- The user interface
+- User Authentication from the UI to the circuitry end.
+- half connection for the database, the circuit end and the ui
+Here are the tasks remaining for team GerCam computing to accomplish:
+- The full connection of the ui-database-ciruit end
+- The seed movement on the board.
+- The simulation of the game on a quantum computer.
+
+7. 
+
