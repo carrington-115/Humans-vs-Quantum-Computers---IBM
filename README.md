@@ -35,6 +35,9 @@ Womanium Quantum Hackathon 2022
 - The Quantum Circuit: qiskit is used to build the quantum circuits of the game and for the simulations on a real IBM quantum computer
 below is an image that shows how the tools work together to achieve the game flow.
 
+![system_flow](https://user-images.githubusercontent.com/103027105/186298967-3c636c60-b687-4e0a-b8c2-9458e9f3c5e5.png)
+
+
 6. Tasks completion
 Team GerCam computing achieved the following,
 - The user interface
