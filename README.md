@@ -15,6 +15,13 @@ Womanium Quantum Hackathon 2022
 - The QLudo Game is an improvement of the classical Ludo game with the addition of Quantum Mechanics that come in the case of the superposition of movements of a player's seed. The QLudo Game is a web game that a player can play realtime on an IBM Quantum computer.
 
 2. github files overview
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/Play_example.png : this image is a graphical description of what happens during the game.
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/Qludo_game_by_GerCam_computing-checkpoint.ipynb : this is the jupyter notebook for the quantum circuits
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/Quantum%20ludo%20game%20ui.pdf : this is a pdf of the UI/UX on figma
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/README.md this is the readme file
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/Womanium%20IBM%20Challenge%202022.pdf : this is the ibm challenge file
+   - https://github.com/carrington-115/Humans-vs-Quantum-Computers---IBM/blob/main/system_flow.png : this image shows how the computation flows in different parts of the game system.
+   
 3. Overview of Quantum Mechanics in QLudo
 - Superposition: The Superposition of the movements of the game means the moves of the player's seed on the board is not fixed, it is superposed. This is achieved in the game by applying a Hadamard gate to the qubit of the first player
 - Entanglement: The game enters a state of entanglement when both players have chosen their move on the board and played. This entanglement then causes the collapse of the game. During the game, entanglement is achieved by applying a controlled not gate where the first player qubit is the control qubit and player's opponent qubit is the target qubit.
