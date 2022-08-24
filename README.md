@@ -44,5 +44,12 @@ Here are the tasks remaining for team GerCam computing to accomplish:
 - The seed movement on the board.
 - The simulation of the game on a quantum computer.
 
-7. 
+7. Current Product (GerCam computing QLudo Game MVP)
+The QLudo Game is a web game that can be played realtime on an IBM Quantum computer. You can access this game with this link https://qludo-30fc6.web.app
+
+8. The team
+Note: During the Hackathon we created a team of Seven, but just one person worked on the tasks, the others did not work, so it made the work to go slowly. active member means the person who worked and non-active means the person who we registered as a team, but did not contribute any task.
+   - Fru-Mark Carrington Chei (Active member)
+   - 
+    
 
