@@ -1,6 +1,6 @@
 # Humans-vs-Quantum-Computers---IBM
 Womanium Quantum Hackathon 2022
-# Team GerCam Computing: QLudo (Quantum Ludo) Game
+# Team GerCam Computing: QLudo (Quantum Ludo) Game (link: https://qludo-30fc6.web.app)
 # Table of Contents
 - Introduction 
 - github files overview
@@ -50,6 +50,10 @@ The QLudo Game is a web game that can be played realtime on an IBM Quantum compu
 8. The team
 Note: During the Hackathon we created a team of Seven, but just one person worked on the tasks, the others did not work, so it made the work to go slowly. active member means the person who worked and non-active means the person who we registered as a team, but did not contribute any task.
    - Fru-Mark Carrington Chei (Active member)
-   - 
+   - Job Dontsa (non-Active member)
+   - Lesly Tsoptio (non-Active member)
+   - Myke Vital Sao (non-Active member)
+   - Michael Tintcheu (non-Active member)
+   - Verena Bender (non-Active member)
     
 
